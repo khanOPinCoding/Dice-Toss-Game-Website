@@ -1,0 +1,51 @@
+body {
+    background-color: #393E46;
+    text-align: center;
+    color: #4ECCA3;
+}
+
+ul {
+    text-decoration: none;
+}
+
+
+/* Big Heading */
+
+#bigHeading {
+    margin: auto;
+    width: 60%;
+    font-family: 'Caveat', cursive;
+    font-size: 6rem;
+    padding: 10px 50px;
+}
+
+.player1,
+.player2 {
+    display: inline-block;
+    max-width: 10%;
+    margin: 50px;
+    font-size: xx-large;
+    font-family: 'Antonio', sans-serif;
+}
+
+.player1 {
+    padding-right: 30px;
+}
+
+.player2 {
+    padding-left: 30px;
+}
+
+.footer {
+    color: #fff;
+}
+
+.image1 {
+    margin-right: 10px;
+    width: 13rem;
+}
+
+.image2 {
+    margin-left: 10px;
+    width: 13rem;
+}
